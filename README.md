@@ -5,5 +5,9 @@ Working on [different projects](https://github.com/changerate?tab=repositories) 
 
 - 🔭 I’m currently working on leading a machine learning team using YOLOv8 for fire detection and maintenance. 
 - 🌱 I’m currently learning deep learning models. 
-- 👯 I’m looking to collaborate on full stack projects. 
+- 🏌🏼‍♂️🏌🏼‍♂️ I’m looking to collaborate on full stack projects. 
 - 🏄‍♂️ Looking forward to surfing.
+
+#### Web Development
+- [Web Design Sample #1](https://scottrazorkaraoke.com/)
+- [Web Design Sample #2](https://scottrazorkaraoke.com/)
