@@ -11,3 +11,5 @@ Working on [different projects](https://github.com/changerate?tab=repositories) 
 #### Web Development
 - [Web Design Sample #1](https://scottrazorkaraoke.com/)
 - [Web Design Sample #2](https://scottrazorkaraoke.com/)
+
+<img width="1512" alt="Screenshot 2025-01-26 at 6 00 03 PM" src="https://github.com/user-attachments/assets/2eac0792-be1a-4f52-bb26-1152b6c42c5c" />
