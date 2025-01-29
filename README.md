@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 Computer science major at Cal Poly Pomona.\
 Working on [different projects](https://github.com/changerate?tab=repositories) and having fun.
