@@ -10,4 +10,4 @@ Working on [different projects](https://github.com/changerate?tab=repositories) 
 
 #### Web Development
 - [Web Design Sample #1](https://scottrazorkaraoke.com/)
-- [Web Design Sample #2](https://scottrazorkaraoke.com/)
+- [Web Design Sample #2](https://acagencydesign.com/)
