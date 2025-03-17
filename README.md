@@ -11,3 +11,5 @@ Working on [different projects](https://github.com/changerate?tab=repositories) 
 #### Web Development
 - [Web Design Sample #1](https://scottrazorkaraoke.com/)
 - [Web Design Sample #2](https://acagencydesign.com/)
+#### Frontend Development
+- [Simple Task Manager App - using React Native](https://github.com/changerate/simple-task-manager)
