@@ -1,6 +1,6 @@
-### Hi there
+## Hi there
 
-Computer science major at Cal Poly Pomona.\
+I'm a computer science major at Cal Poly Pomona.\
 Working on [different projects](https://github.com/changerate?tab=repositories) and having fun.
 
 - 🔭 I’m currently working on leading a machine learning team using YOLOv8 for fire detection and mapping at Cal Poly Pomona.
@@ -9,6 +9,14 @@ Working on [different projects](https://github.com/changerate?tab=repositories) 
 - 🏄‍♂️ Looking forward to surfing.
 
 ### Projects
+
+**Data Visualization**
+- [Plotting the shifts I've worked in matplot](https://github.com/changerate/visualizing-job-shifts)
+
+**AI Class Algorithm Assignments** 
+- [Alpha Beta Pruning](https://github.com/changerate/alpha-beta-pruning)
+- [Genetic Steepest Hill Climbing](https://github.com/changerate/genetic-steepest-hill-comparison)
+- [A-Star Heuristic Comparisons](https://github.com/changerate/astar-heuristics-comparison)
 
 **Web Development**
 - [Website Sample](https://scottrazorkaraoke.com/)
