@@ -10,13 +10,17 @@ Working on [different projects](https://github.com/changerate?tab=repositories) 
 
 ### Projects
 
-**Data Visualization**
-- [Plotting the shifts I've worked in matplot](https://github.com/changerate/visualizing-job-shifts)
+**Research**
+- [Building a ground control station for Cal Poly Pomona](https://github.com/UAVGCSTeam/GCS) --> [cppgroundcontrol.com](https://cppgroundcontrol.com)
+- [Building classical machine learning models for UAV classification using radio frequencies](https://github.com/changerate/iq-classification-classical-models)
 
 **AI Class Algorithm Assignments** 
 - [Alpha Beta Pruning](https://github.com/changerate/alpha-beta-pruning)
 - [Genetic Steepest Hill Climbing](https://github.com/changerate/genetic-steepest-hill-comparison)
 - [A-Star Heuristic Comparisons](https://github.com/changerate/astar-heuristics-comparison)
+
+**Data Visualization**
+- [Plotting the shifts I've worked in matplot](https://github.com/changerate/visualizing-job-shifts)
 
 **Web Development**
 - [Website Sample](https://scottrazorkaraoke.com/)
@@ -24,12 +28,5 @@ Working on [different projects](https://github.com/changerate?tab=repositories) 
 - [Website Client: Photographer](https://elizabethbairdphotography.com)
 - [Website Client: Tattoo Artist](https://serpenttattoos.com/)
 
-**Frontend Development**
-- [Simple Task Manager App](https://github.com/changerate/simple-task-manager)
-
-**API Practice and Learning React**
-- [Simple Task Manager App - using React Native](https://github.com/changerate/simple-task-manager)
-- [AI Recipe Finder](https://github.com/alaaddingh/recipe-daddy/)
-
 **JavaScript and WebWorkers Practice**
-- [Exam Timer](https://github.com/changerate/exam-timer)
+- [Exam Timer (freshman year)](https://github.com/changerate/exam-timer)
