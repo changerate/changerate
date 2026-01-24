@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm a computer science major at Cal Poly Pomona.\
+I'm a computer science major at Cal Poly Pomona. Graduating in May 2026!\
 Working on [different projects](https://github.com/changerate?tab=repositories) and having fun.
 
 - 🔭 I’m currently working on leading a machine learning team using YOLOv8 for fire detection and mapping at Cal Poly Pomona.
