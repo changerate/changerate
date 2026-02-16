@@ -4,7 +4,7 @@ I'm a computer science major at Cal Poly Pomona. Graduating in May 2026!\
 Working on [different projects](https://github.com/changerate?tab=repositories) and having fun.
 
 - 🔭 I’m currently working on leading a software team developing a GCS at Cal Poly Pomona
-- 🌱 I’m classical machine learning models for processing large IQ RF files 
+- 🌱 I’m learning classical machine learning models for processing large IQ RF files 
 - 🏌🏼‍♂️🏌🏼‍♂️ I’m looking to collaborate on full stack projects
 - 🏄‍♂️ Looking forward to surfing
 
